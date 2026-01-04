@@ -2,7 +2,6 @@
 
 This repository is a comprehensive 100-day technical sprint dedicated to mastering Python, system architecture, and frontier AI integration. My goal is to bridge the gap between academic Computer Science theory and production-grade engineering.
 
-I am currently a student accelerating through **Arizona State University (ASU)** Computer Science credits, focusing on building high-scale autonomous systems.
 
 ## 🗺 Detailed Roadmap
 
