@@ -40,8 +40,6 @@ This repository is a comprehensive 100-day technical sprint dedicated to masteri
 
 ## 🛠 Tech Stack
 - **Languages:** Python (Primary Focus)
-- **Environment:** ASU CS Curriculum
-- **AI Tools:** OpenAI API, LangChain, n8n
 
 ## 🔗 Connect
 * **LinkedIn:** [Mustafa Enes Kayaci](https://www.linkedin.com/in/mustafa-enes-kayaci/)
